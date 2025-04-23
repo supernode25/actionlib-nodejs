@@ -20,9 +20,9 @@ roslibjs-actionlib/
    roscore
    ```
 
-2. Fibonacci 액션 서버 실행  
+2. move_base 액션 서버 실행  
    ```bash
-   rosrun actionlib_tutorials fibonacci_server
+   rosrun move_base move_base
    ```
 
 3. rosbridge 서버 실행  
